@@ -1,0 +1,8 @@
+.header {
+	color: #ffb713;
+}
+
+.body {
+	background: #42454c;
+	background: radial-gradient(white, #42454c);
+}
